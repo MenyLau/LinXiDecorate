@@ -1,0 +1,10 @@
+0、https://www.cnblogs.com/lifeng618/p/9649363.html
+
+1、https://q.cnblogs.com/q/77921/
+2、https://www.cnblogs.com/edisonchou/archive/2018/06/25/9219767.html
+3、https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_01.html
+4、https://docs.microsoft.com/zh-cn/aspnet/core/security/authentication/community?view=aspnetcore-3.0
+
+5、https://github.com/JeffreySu/WeiXinMPSDK.
+
+6、https://zhuanlan.zhihu.com/p/26647289
